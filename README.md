@@ -19,13 +19,8 @@ TicketPal is an Event-Based Microservices application that allows a general user
 
 ## Technologies
 
-- Backend: Node.js and Express.js, 
-- Frontend: React.js and Next.js
-- Database: MongoDB and Redis
-- event-bus: Nats-Streaming
-- Docker containers and kubernetes clusters
-- Typescript
-- ingress-nginx
+- Backend: Java
+- Frontend: Java Swing
 
 ## Author Info
 
